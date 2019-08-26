@@ -1,3 +1,1 @@
-# Tesis_CNN
-
-Clasificador CNN
+# CNN para clasificar materiales reciclables.
